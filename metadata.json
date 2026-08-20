@@ -1,0 +1,6 @@
+{
+  "name": "Swiggy Express - Multi-Restaurant Delivery",
+  "description": "Next-generation food delivery and quick-commerce app featuring multi-restaurant consolidated ordering, a 120-second instant cancellation grace period with instant refunds, live map delivery tracking, fast human support escalation, and seamless service switching.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
